@@ -1,0 +1,13 @@
+body
+{
+    font-family: 'Special Elite',cursive;
+    background-color: antiquewhite;
+}
+
+#image
+{
+    border: 2px solid white;
+    width: 600px;
+    height: 600px;
+    
+}
